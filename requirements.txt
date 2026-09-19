@@ -1,0 +1,15 @@
+Django==6.0.5
+gunicorn==26.0.0
+psycopg2-binary==2.9.10
+python_speech_features==0.6
+scipy==1.17.0
+numpy==2.4.6
+python-dotenv==1.2.2
+torch==2.12.0
+whitenoise==6.12.0
+# Dependencies for training and model evaluation (used in train.py)
+matplotlib==3.10.9
+scikit-learn==1.8.0
+seaborn==0.13.2
+soundfile==0.13.1
+Pillow==11.0.0
